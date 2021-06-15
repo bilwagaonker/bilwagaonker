@@ -7,6 +7,7 @@ LinkedIn: https://www.linkedin.com/in/bilwa-gaonker/
 Twitter: https://twitter.com/bilwa03
 - I love writing articles for technical topics (have mostly written about cloud and data visualization up until now!).
 Heres the link to my blog: https://bilwagaonker99.medium.com/
+- Host of the podcast Pep and Prep talks: https://anchor.fm/bilwa-gaonker
 
 <!---
 bilwagaonker/bilwagaonker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
